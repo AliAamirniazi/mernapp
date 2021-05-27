@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://aliniazi:mianwali1234@cluster0.st1ao.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+     "jwtSecret": "mysecrettoken",
+     "githubClientId": "e295119193b0bdad9790",
+     "githubSecret":"15da2d9b8e49fb19fbc61a214f9fcfb6aa3754ab"
+}
